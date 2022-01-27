@@ -6,5 +6,9 @@ Description: This is to Showcase all the Git Commands
 
 ### clone
 Clone repo from the Github account on your local machine
-Ex: git clone https://github.com/barjinder2014/git-demo-repo.git
+#### Ex: git clone https://github.com/barjinder2014/git-demo-repo.git
+
+### status
+Know the Status of the repo on your local machine
+#### Ex: git status
 
