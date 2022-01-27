@@ -12,3 +12,7 @@ Clone repo from the Github account on your local machine
 Know the Status of the repo on your local machine
 #### Ex: git status
 
+### commit
+This command use to commit changes in the repo
+#### Ex: git commit -m "Updated README.md file"
+
