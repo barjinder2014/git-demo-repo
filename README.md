@@ -1,3 +1,3 @@
 # Github commands Demo
 
-Description
+Description: This is to Showcase all the Git Commands
